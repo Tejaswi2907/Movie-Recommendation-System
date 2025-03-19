@@ -1,5 +1,4 @@
-# Movie-Recommendation-System
-Content based movie recommendation system 
+
 # 🎬 Content-Based Movie Recommendation System  
 
 ## 📌 About the Project  
